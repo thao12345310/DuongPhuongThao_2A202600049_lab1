@@ -75,7 +75,7 @@ cp exercises.md solution/exercises.md
 # 3. Zip folder solution
 zip -r solution.zip solution/
 
-# 4. Đổi tên file solution.zip thành thành <mã sinh viên>_lab_1.zip và upload lên hệ thống LMS 
+# 4. Đổi tên file solution.zip thành thành 2A202600049_lab_1.zip và upload lên hệ thống LMS 
 ```
 
 **Cấu trúc folder solution trước khi zip:**
